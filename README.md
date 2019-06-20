@@ -5,9 +5,7 @@ Python interface for creating c4models using pydot.
 ### Installation
 
 ```
-git clone https://github.com/equinor/c4model-python
-
-pip install .
+pip install git+https://github.com/equinor/c4model-python.git
 ```
 
 ### Examples
