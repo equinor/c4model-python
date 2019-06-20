@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
      name='c4model',
-     version='0.1',
+     version='0.1.0',
      author="Jostein Solaas",
      author_email="josas@equinor.com",
      description="C4models using python",
